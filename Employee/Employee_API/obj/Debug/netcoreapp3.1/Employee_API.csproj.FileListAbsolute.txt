@@ -1,0 +1,332 @@
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.exe
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.AssemblyInfoInputs.cache
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.AssemblyInfo.cs
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.RazorTargetAssemblyInfo.cache
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\staticwebassets\Employee_API.StaticWebAssets.Manifest.cache
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\staticwebassets\Employee_API.StaticWebAssets.xml
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.csproj.CopyComplete
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.deps.json
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.runtimeconfig.json
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.runtimeconfig.dev.json
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.pdb
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.dll
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.pdb
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.genruntimeconfig.cache
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.csprojAssemblyReference.cache
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Afsal Work\Employee\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.csproj.CoreCompileInputs.cache
+D:\Afsal Work\Employee\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.MvcApplicationPartsAssemblyInfo.cache
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\appsettings.json
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.exe
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.deps.json
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.runtimeconfig.json
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.runtimeconfig.dev.json
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Employee_API.pdb
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Npgsql.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+O:\GOKUL\Employee\Employee_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.csprojAssemblyReference.cache
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.AssemblyInfoInputs.cache
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.AssemblyInfo.cs
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.csproj.CoreCompileInputs.cache
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.MvcApplicationPartsAssemblyInfo.cache
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.RazorTargetAssemblyInfo.cache
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.csproj.CopyComplete
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\staticwebassets\Employee_API.StaticWebAssets.Manifest.cache
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\staticwebassets\Employee_API.StaticWebAssets.xml
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.dll
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.pdb
+O:\GOKUL\Employee\Employee_API\obj\Debug\netcoreapp3.1\Employee_API.genruntimeconfig.cache
